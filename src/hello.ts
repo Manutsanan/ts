@@ -1,3 +1,3 @@
-const sayHi = () => 'Hello, World!';
+const sayHi = () => "Hello, World!";
 
 export default sayHi;
