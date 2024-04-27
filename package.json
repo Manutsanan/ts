@@ -6,7 +6,7 @@
   "scripts": {
     "prepare": "husky",
     "precommit": "npm run lint-fix && npm run pretty",
-    "dev": "tsc && node build/hello.js ",
+    "dev": "tsc && node build/hello.js",
     "lint": "eslint src/**/*.ts",
     "lint-fix": "eslint --fix src/**/*.ts",
     "test": "jest",
